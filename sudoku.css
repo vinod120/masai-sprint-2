@@ -1,0 +1,44 @@
+html, body {
+    background-color: #FAFAFA;
+    width: 60%;
+    margin: auto;
+}
+
+table {
+    border: 2px solid #000000;
+}
+
+td {
+    border: 1px solid #000000;
+    text-align: center;
+    vertical-align: middle;  
+}
+
+input {
+    color: #000000;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    background-color: #FFFFFF;
+}
+.top_border{
+    border-top: 2px solid #000000;
+}
+.left_border{
+    border-left: 2px solid #000000;
+}
+.right_border{
+    border-right: 2px solid #000000;
+}
+.bottom_border{
+    border-bottom: 2px solid #000000;
+}
+
+button{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 10px;
+}
